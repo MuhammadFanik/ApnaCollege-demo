@@ -4,3 +4,4 @@ This repo will contain all the codes written from Hitesh Chaudhry and implemente
 This may also contain code snippets from CWH.
 
 ## subheader
+Author: Muhammad Fanik
