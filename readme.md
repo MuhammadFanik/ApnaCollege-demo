@@ -5,5 +5,7 @@ This may also contain code snippets from CWH.
 
 ## subheader
 Author: Muhammad Fanik
+<br>
 Team leader: Virat Kohli
+<br>
 Captain: MS Dhoni
